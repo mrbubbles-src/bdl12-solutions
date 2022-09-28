@@ -33,7 +33,7 @@ git status
 
 git log
 
-git nano
+git nano README.md
 
 git commit -a
 
