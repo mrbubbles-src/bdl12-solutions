@@ -32,6 +32,11 @@ git commit -m "first commit"
 git status
 
 git log
+
+git nano
+
+git commit -a
+
 ```
 
 Answer to last Question:
